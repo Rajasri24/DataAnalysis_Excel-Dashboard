@@ -14,4 +14,4 @@ To develop an interactive Excel-based Sales and Profit Dashboard using the Super
 - Which customer segment contributes more to overall revenue?
 - What are the top-performing categories in each region?
 
- - <a href="[https://github.com/Rajasri24/DataAnalysis_Excel-Dashboard/blob/main/Superstore.xlsx](https://github.com/Rajasri24/DataAnalysis_Excel-Dashboard/blob/main/stores%20%20screenshot.jpg)"> View Dashboard </a> 
+- <a href="https://github.com/Rajasri24/DataAnalysis_Excel-Dashboard/blob/main/stores%20%20screenshot.jpg"> View Dashboard </a>
