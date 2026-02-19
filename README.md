@@ -4,3 +4,14 @@ To develop an interactive Excel-based Sales and Profit Dashboard using the Super
 
 ## Dataset Used  
 - <a href="https://github.com/Rajasri24/DataAnalysis_Excel-Dashboard/blob/main/Superstore.xlsx"> DataSet </a>
+
+## Questions (KPIs)
+- What is the total sales and total profit generated from 2014 to 2017?
+- How do sales and profit vary year-wise over the period 2014–2017?
+- Which region contributes the highest and lowest sales?
+- Which product category performs best in terms of sales and profit?
+- What is the monthly trend of sales and profit over the years?
+- Which customer segment contributes more to overall revenue?
+- What are the top-performing categories in each region?
+
+  
